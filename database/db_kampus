@@ -1,0 +1,28 @@
+{
+	message : "Data kelas X berhasil ditampilkan",
+	code : 200,
+	status : true,
+	total_datasiswa : 3,
+	wali_kelas : "Ust. Darmawan. Lc.",
+	kelas : X (Sepuluh),
+	datakelas : [
+		{
+		       nama_lengkap : "Irwan Sofandi",
+		       jenis_kelamin : "Laki-laki",
+		       alamat : "Cikarang, Bekasi",
+		       nomor_telfon : "0812834729834",
+		       email : "irwan@gmail.com",		
+                   jurusan : "Rekayasa Perangkat Lunak",
+		       tgl_terdaftar : "21 Agustus 2018"
+		},
+		{
+		       nama_lengkap : "Reni Afriani",
+		       jenis_kelamin : "Perempuan",
+		       alamat : "Cibitung, Bekasi",
+		       nomor_telfon : "089239102931",
+		       email : "reni_afriani@gmail.com", 
+                   jurusan : "Multimedia",
+		       tgl_terdaftar : "15 Agustus 2018"
+		},
+	]
+}
